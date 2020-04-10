@@ -4,7 +4,7 @@
 	"description":"Token Üretici",
 	"keywords":["Token","üretici"],
 	"homepage":"https://github.com/mustafayilmazist/composer_olusturmak",
-	"licence":"MIT",
+	"license":"MIT",
 	"authors":[
 		{
 			"name":"Mustafa Yılmaz",
