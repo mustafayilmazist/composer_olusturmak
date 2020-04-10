@@ -1,0 +1,17 @@
+{
+	"name":"mustafayilmazist/composer_olusturmak",
+	"type":"project",
+	"description":"Token Üretici",
+	"keywords":["Token","üretici"],
+	"homepage":"https://github.com/mustafayilmazist/composer_olusturmak",
+	"licence":"MIT",
+	"authors":[
+		{
+			"name":"Mustafa Yılmaz",
+			"email":"iletisim@yazilimekip.com"
+		}
+	],
+	"require":{
+		"mustafayilmazist/composer_olusturmak":"~1.0"
+	}
+}
